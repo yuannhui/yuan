@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/yuannhui/yuan/edit/gh-page
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+
+都可能离开你的快乐是努力克服你撒了看能否可能是烦恼啦可是你理发卡收费离开你
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
